@@ -1,4 +1,4 @@
-System.register(["./application.6fe84.js"], function (_export, _context) {
+System.register(["./application.df350.js"], function (_export, _context) {
   "use strict";
 
   var Application, application;
@@ -8,8 +8,8 @@ System.register(["./application.6fe84.js"], function (_export, _context) {
   }
 
   return {
-    setters: [function (_application6fe84Js) {
-      Application = _application6fe84Js.Application;
+    setters: [function (_applicationDf350Js) {
+      Application = _applicationDf350Js.Application;
     }],
     execute: function () {
       application = new Application();
