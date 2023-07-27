@@ -1,0 +1,216 @@
+
+10032.png
+size: 1920,876
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+FX/FX_ (10)
+  rotate: true
+  xy: 1466, 417
+  size: 457, 449
+  orig: 457, 449
+  offset: 0, 0
+  index: -1
+FX/FX_ (11)
+  rotate: false
+  xy: 2, 446
+  size: 508, 428
+  orig: 508, 428
+  offset: 0, 0
+  index: -1
+FX/FX_ (2)
+  rotate: false
+  xy: 1670, 137
+  size: 89, 89
+  orig: 89, 89
+  offset: 0, 0
+  index: -1
+FX/FX_ (3)
+  rotate: false
+  xy: 1761, 137
+  size: 89, 89
+  orig: 89, 89
+  offset: 0, 0
+  index: -1
+FX/FX_ (4)
+  rotate: false
+  xy: 1663, 228
+  size: 187, 187
+  orig: 187, 187
+  offset: 0, 0
+  index: -1
+FX/FX_ (5)
+  rotate: false
+  xy: 986, 152
+  size: 297, 297
+  orig: 297, 297
+  offset: 0, 0
+  index: -1
+FX/FX_ (6)
+  rotate: true
+  xy: 512, 26
+  size: 423, 472
+  orig: 423, 472
+  offset: 0, 0
+  index: -1
+FX/FX_ (7)
+  rotate: true
+  xy: 2, 21
+  size: 423, 505
+  orig: 423, 505
+  offset: 0, 0
+  index: -1
+FX/FX_ (8)
+  rotate: true
+  xy: 512, 451
+  size: 423, 475
+  orig: 423, 475
+  offset: 0, 0
+  index: -1
+FX/FX_ (9)
+  rotate: true
+  xy: 989, 451
+  size: 423, 475
+  orig: 423, 475
+  offset: 0, 0
+  index: -1
+images/Front_cover2
+  rotate: true
+  xy: 1771, 86
+  size: 49, 79
+  orig: 49, 79
+  offset: 0, 0
+  index: -1
+images/Head
+  rotate: false
+  xy: 1447, 210
+  size: 214, 205
+  orig: 214, 205
+  offset: 0, 0
+  index: -1
+images/back wing
+  rotate: false
+  xy: 1746, 34
+  size: 54, 50
+  orig: 54, 50
+  offset: 0, 0
+  index: -1
+images/body
+  rotate: true
+  xy: 986, 11
+  size: 139, 178
+  orig: 139, 178
+  offset: 0, 0
+  index: -1
+images/eye2
+  rotate: false
+  xy: 1286, 43
+  size: 108, 134
+  orig: 108, 134
+  offset: 0, 0
+  index: -1
+images/fontcover_1
+  rotate: false
+  xy: 1396, 42
+  size: 103, 135
+  orig: 103, 135
+  offset: 0, 0
+  index: -1
+images/fur 1
+  rotate: true
+  xy: 1619, 113
+  size: 95, 49
+  orig: 95, 49
+  offset: 0, 0
+  index: -1
+images/fur 1_a
+  rotate: false
+  xy: 1670, 99
+  size: 99, 36
+  orig: 99, 36
+  offset: 0, 0
+  index: -1
+images/fur 1_b
+  rotate: true
+  xy: 1852, 93
+  size: 84, 60
+  orig: 84, 60
+  offset: 0, 0
+  index: -1
+images/fur 1_c
+  rotate: true
+  xy: 1602, 2
+  size: 82, 79
+  orig: 82, 79
+  offset: 0, 0
+  index: -1
+images/fur body
+  rotate: true
+  xy: 1852, 179
+  size: 88, 66
+  orig: 88, 66
+  offset: 0, 0
+  index: -1
+images/fur body 2
+  rotate: true
+  xy: 1721, 38
+  size: 59, 23
+  orig: 59, 23
+  offset: 0, 0
+  index: -1
+images/fur2_a
+  rotate: true
+  xy: 1852, 269
+  size: 146, 51
+  orig: 146, 51
+  offset: 0, 0
+  index: -1
+images/fur2_b
+  rotate: true
+  xy: 1166, 20
+  size: 130, 118
+  orig: 130, 118
+  offset: 0, 0
+  index: -1
+images/fur2_c
+  rotate: false
+  xy: 1501, 97
+  size: 116, 111
+  orig: 116, 111
+  offset: 0, 0
+  index: -1
+images/fur3
+  rotate: false
+  xy: 1285, 278
+  size: 160, 171
+  orig: 160, 171
+  offset: 0, 0
+  index: -1
+images/fur4_a
+  rotate: false
+  xy: 1683, 16
+  size: 36, 81
+  orig: 36, 81
+  offset: 0, 0
+  index: -1
+images/fur4_b
+  rotate: false
+  xy: 1285, 179
+  size: 160, 97
+  orig: 160, 97
+  offset: 0, 0
+  index: -1
+images/goldwing_1
+  rotate: false
+  xy: 1286, 2
+  size: 51, 39
+  orig: 51, 39
+  offset: 0, 0
+  index: -1
+images/goldwing_2
+  rotate: false
+  xy: 1501, 43
+  size: 99, 52
+  orig: 99, 52
+  offset: 0, 0
+  index: -1
