@@ -1,0 +1,188 @@
+
+10042.png
+size: 1129,409
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Ear_L
+  rotate: false
+  xy: 1027, 279
+  size: 89, 128
+  orig: 89, 128
+  offset: 0, 0
+  index: -1
+Ear_R
+  rotate: true
+  xy: 1017, 226
+  size: 51, 110
+  orig: 51, 110
+  offset: 0, 0
+  index: -1
+Eye_line_L
+  rotate: false
+  xy: 961, 133
+  size: 43, 34
+  orig: 43, 34
+  offset: 0, 0
+  index: -1
+Eye_line_R
+  rotate: true
+  xy: 1006, 136
+  size: 34, 24
+  orig: 34, 24
+  offset: 0, 0
+  index: -1
+Eye_lip_L
+  rotate: true
+  xy: 608, 188
+  size: 58, 77
+  orig: 58, 77
+  offset: 0, 0
+  index: -1
+Eye_lip_R
+  rotate: true
+  xy: 1049, 179
+  size: 45, 69
+  orig: 45, 69
+  offset: 0, 0
+  index: -1
+Eyeball
+  rotate: true
+  xy: 608, 248
+  size: 159, 94
+  orig: 159, 94
+  offset: 0, 0
+  index: -1
+Iris1
+  rotate: false
+  xy: 1005, 172
+  size: 42, 52
+  orig: 42, 52
+  offset: 0, 0
+  index: -1
+blur_17
+  rotate: false
+  xy: 2, 7
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 404, 4
+  size: 179, 132
+  orig: 179, 132
+  offset: 0, 0
+  index: -1
+canhhoa_2
+  rotate: true
+  xy: 538, 7
+  size: 176, 147
+  orig: 176, 147
+  offset: 0, 0
+  index: -1
+canhhoa_3
+  rotate: false
+  xy: 921, 2
+  size: 104, 125
+  orig: 104, 125
+  offset: 0, 0
+  index: -1
+canhhoa_4
+  rotate: true
+  xy: 687, 90
+  size: 156, 117
+  orig: 156, 117
+  offset: 0, 0
+  index: -1
+canhhoa_5
+  rotate: false
+  xy: 687, 3
+  size: 124, 85
+  orig: 124, 85
+  offset: 0, 0
+  index: -1
+canhhoa_61
+  rotate: true
+  xy: 806, 129
+  size: 136, 125
+  orig: 136, 125
+  offset: 0, 0
+  index: -1
+canhhoa_62
+  rotate: true
+  xy: 937, 239
+  size: 52, 78
+  orig: 52, 78
+  offset: 0, 0
+  index: -1
+canhhoa_71
+  rotate: false
+  xy: 1049, 66
+  size: 68, 111
+  orig: 68, 111
+  offset: 0, 0
+  index: -1
+canhhoa_72
+  rotate: false
+  xy: 933, 169
+  size: 70, 68
+  orig: 70, 68
+  offset: 0, 0
+  index: -1
+eyeBr1
+  rotate: true
+  xy: 933, 129
+  size: 38, 26
+  orig: 38, 26
+  offset: 0, 0
+  index: -1
+eyeBr2
+  rotate: false
+  xy: 704, 249
+  size: 23, 16
+  orig: 23, 16
+  offset: 0, 0
+  index: -1
+hat_3
+  rotate: true
+  xy: 813, 2
+  size: 125, 106
+  orig: 125, 106
+  offset: 0, 0
+  index: -1
+mat
+  rotate: false
+  xy: 404, 185
+  size: 202, 222
+  orig: 202, 222
+  offset: 0, 0
+  index: -1
+mounth
+  rotate: false
+  xy: 729, 250
+  size: 27, 15
+  orig: 27, 15
+  offset: 0, 0
+  index: -1
+neck1
+  rotate: true
+  xy: 704, 267
+  size: 140, 110
+  orig: 140, 110
+  offset: 0, 0
+  index: -1
+neck2
+  rotate: true
+  xy: 816, 277
+  size: 130, 119
+  orig: 130, 119
+  offset: 0, 0
+  index: -1
+neck3
+  rotate: false
+  xy: 937, 293
+  size: 80, 114
+  orig: 80, 114
+  offset: 0, 0
+  index: -1

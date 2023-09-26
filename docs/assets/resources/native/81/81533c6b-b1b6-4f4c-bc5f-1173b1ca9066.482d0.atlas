@@ -1,0 +1,55 @@
+
+202.png
+size: 248,362
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chan
+  rotate: true
+  xy: 86, 319
+  size: 41, 44
+  orig: 41, 44
+  offset: 0, 0
+  index: -1
+la
+  rotate: false
+  xy: 2, 215
+  size: 237, 98
+  orig: 237, 98
+  offset: 0, 0
+  index: -1
+leg_2
+  rotate: false
+  xy: 132, 315
+  size: 48, 45
+  orig: 48, 45
+  offset: 0, 0
+  index: -1
+long may
+  rotate: false
+  xy: 59, 338
+  size: 25, 22
+  orig: 25, 22
+  offset: 0, 0
+  index: -1
+mat
+  rotate: false
+  xy: 2, 344
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+mieng
+  rotate: false
+  xy: 20, 340
+  size: 37, 20
+  orig: 37, 20
+  offset: 0, 0
+  index: -1
+than
+  rotate: true
+  xy: 2, 2
+  size: 211, 244
+  orig: 211, 244
+  offset: 0, 0
+  index: -1

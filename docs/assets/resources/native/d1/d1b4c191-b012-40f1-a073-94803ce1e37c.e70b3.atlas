@@ -1,0 +1,90 @@
+
+301.png
+size: 431,268
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: true
+  xy: 2, 6
+  size: 260, 249
+  orig: 260, 249
+  offset: 0, 0
+  index: -1
+L_B_leg
+  rotate: true
+  xy: 345, 70
+  size: 83, 84
+  orig: 83, 84
+  offset: 0, 0
+  index: -1
+L_leg
+  rotate: true
+  xy: 253, 2
+  size: 66, 81
+  orig: 66, 81
+  offset: 0, 0
+  index: -1
+R_B_leg
+  rotate: false
+  xy: 253, 101
+  size: 90, 82
+  orig: 90, 82
+  offset: 0, 0
+  index: -1
+R_leg
+  rotate: true
+  xy: 336, 3
+  size: 65, 84
+  orig: 65, 84
+  offset: 0, 0
+  index: -1
+eye
+  rotate: false
+  xy: 378, 207
+  size: 47, 59
+  orig: 47, 59
+  offset: 0, 0
+  index: -1
+eye_br_1
+  rotate: false
+  xy: 345, 155
+  size: 30, 28
+  orig: 30, 28
+  offset: 0, 0
+  index: -1
+eye_br_2
+  rotate: true
+  xy: 289, 70
+  size: 29, 26
+  orig: 29, 26
+  offset: 0, 0
+  index: -1
+eye_small
+  rotate: true
+  xy: 253, 70
+  size: 29, 34
+  orig: 29, 34
+  offset: 0, 0
+  index: -1
+flower3
+  rotate: false
+  xy: 253, 185
+  size: 123, 81
+  orig: 123, 81
+  offset: 0, 0
+  index: -1
+long_mi
+  rotate: false
+  xy: 317, 80
+  size: 25, 19
+  orig: 25, 19
+  offset: 0, 0
+  index: -1
+mi_mat1
+  rotate: false
+  xy: 378, 164
+  size: 44, 41
+  orig: 44, 41
+  offset: 0, 0
+  index: -1
