@@ -1,0 +1,90 @@
+
+101.png
+size: 625,205
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 3
+  rotate: true
+  xy: 295, 55
+  size: 148, 101
+  orig: 148, 101
+  offset: 0, 0
+  index: -1
+bandage
+  rotate: false
+  xy: 505, 131
+  size: 106, 72
+  orig: 108, 74
+  offset: 1, 1
+  index: -1
+body
+  rotate: false
+  xy: 398, 60
+  size: 105, 143
+  orig: 105, 143
+  offset: 0, 0
+  index: -1
+ear
+  rotate: false
+  xy: 505, 60
+  size: 64, 69
+  orig: 67, 71
+  offset: 1, 1
+  index: -1
+eye_l
+  rotate: false
+  xy: 525, 18
+  size: 41, 40
+  orig: 43, 42
+  offset: 1, 1
+  index: -1
+eye_r
+  rotate: false
+  xy: 571, 29
+  size: 43, 41
+  orig: 45, 43
+  offset: 1, 1
+  index: -1
+hand back
+  rotate: true
+  xy: 295, 7
+  size: 46, 85
+  orig: 46, 85
+  offset: 0, 0
+  index: -1
+hand front
+  rotate: true
+  xy: 382, 10
+  size: 43, 86
+  orig: 43, 86
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 2, 4
+  size: 291, 199
+  orig: 293, 201
+  offset: 1, 1
+  index: -1
+leg_l
+  rotate: true
+  xy: 571, 72
+  size: 57, 52
+  orig: 57, 52
+  offset: 0, 0
+  index: -1
+leg_r
+  rotate: false
+  xy: 470, 5
+  size: 53, 53
+  orig: 53, 53
+  offset: 0, 0
+  index: -1
+nose
+  rotate: false
+  xy: 525, 2
+  size: 29, 14
+  orig: 29, 14
+  offset: 0, 0
+  index: -1
