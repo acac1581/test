@@ -278,7 +278,7 @@ System.register("chunks:///_virtual/main", ['./debug-view-runtime-control.ts', '
 });
 
 System.register("chunks:///_virtual/Test1.ts", ['./rollupPluginModLoBabelHelpers.js', 'cc', './index.ts'], function (exports) {
-  var _inheritsLoose, _asyncToGenerator, _regeneratorRuntime, cclegacy, _decorator, Component, __webpack_exports__toNano, __webpack_exports__Address, __webpack_exports__GameFi;
+  var _inheritsLoose, _asyncToGenerator, _regeneratorRuntime, cclegacy, _decorator, Component, __webpack_exports__toNano, __webpack_exports__Address, __webpack_exports__TonConnectUI, __webpack_exports__GameFi;
   return {
     setters: [function (module) {
       _inheritsLoose = module.inheritsLoose;
@@ -291,6 +291,7 @@ System.register("chunks:///_virtual/Test1.ts", ['./rollupPluginModLoBabelHelpers
     }, function (module) {
       __webpack_exports__toNano = module.toNano;
       __webpack_exports__Address = module.Address;
+      __webpack_exports__TonConnectUI = module.TonConnectUI;
       __webpack_exports__GameFi = module.GameFi;
     }],
     execute: function () {
@@ -343,9 +344,9 @@ System.register("chunks:///_virtual/Test1.ts", ['./rollupPluginModLoBabelHelpers
                   // });
                   //https://ton-connect.github.io/demo-dapp-with-wallet/tonconnect-manifest.json
                   //http://127.0.0.1/tonconnect-manifest.json
-                  uiconnector = {
+                  uiconnector = new __webpack_exports__TonConnectUI({
                     manifestUrl: 'https://ton-connect.github.io/demo-dapp-with-wallet/tonconnect-manifest.json'
-                  };
+                  });
                   merchantParams = {
                     tonAddress: this.tonAddressMerchant,
                     jettonAddress: this.jettonMasterAddress

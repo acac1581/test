@@ -50257,6 +50257,7 @@ System.register("chunks:///_virtual/index.ts", ['./rollupPluginModLoBabelHelpers
       }(GameFiBase);
       var __webpack_exports__Address = exports('Address', __webpack_exports__.pV);
       var __webpack_exports__GameFi = exports('GameFi', __webpack_exports__.ki);
+      var __webpack_exports__TonConnectUI = exports('TonConnectUI', __webpack_exports__.i$);
       var __webpack_exports__toNano = exports('toNano', __webpack_exports__.IU);
     }
   };
